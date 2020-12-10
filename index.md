@@ -7,24 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 ### Markdownの使い方
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+- [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1.md)
 
 ### Jekyll Themes
 
@@ -39,5 +22,3 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 - [Jekyll](https://jekyllrb.com/)
 
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-
-- [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1.md)
