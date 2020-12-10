@@ -1,6 +1,6 @@
 ## ようこそ
 
- [静的サイトの作り方](https://guides.github.com/features/pages/) 
+
 
 
 Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild the pages in your site, from the content in your Markdown files.
@@ -30,10 +30,12 @@ Syntax highlighted code block
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapotofu9/mapotofu9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-[github pages](https://docs.github.com/categories/github-pages-basics/)
+- [10分で理解するでの静的サイト(github pages)の作り方](https://guides.github.com/features/pages/) 
 
-[Jekyll](https://jekyllrb.com/)
+- [github pages 公式ドキュメント](https://docs.github.com/categories/github-pages-basics/)
 
-[GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+- [Jekyll](https://jekyllrb.com/)
 
-[Markdownについて学んでみた](markdown1.md)
+- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
+
+- [Markdownについて学んでみた](markdown1.md)
