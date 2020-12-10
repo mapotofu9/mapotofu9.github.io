@@ -45,6 +45,6 @@ _イタリック_
 普通の文章
 
 [リンク](https://mapotofu9.github.io/)
-![画像](octocat.png)
+![画像](octocat(2).png)
 
 
