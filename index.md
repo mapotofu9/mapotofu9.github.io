@@ -31,6 +31,9 @@ Syntax highlighted code block
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapotofu9/mapotofu9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 [github pages](https://docs.github.com/categories/github-pages-basics/)
+
 [Jekyll](https://jekyllrb.com/)
+
 [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
-[Markdownについての学んでみた](markdown1.md)
+
+[Markdownについて学んでみた](markdown1.md)
