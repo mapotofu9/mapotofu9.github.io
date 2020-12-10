@@ -40,4 +40,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 - [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-- [Markdownについて学んでみた](markdown1.md)
+- [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1.md)
