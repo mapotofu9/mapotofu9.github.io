@@ -7,7 +7,7 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 ### Markdownの使い方
 
-- [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1.md)
+- [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1.html)
 
 ### Jekyll Themes
 
