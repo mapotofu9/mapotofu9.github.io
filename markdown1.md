@@ -50,7 +50,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 @mentions:
-@tn991 who the f r u
+@ tn991 who the f r u
 
 Strikethrough:
 ~Any word wrapped with two \~s will appear crossed out.~
@@ -128,7 +128,7 @@ Content in the first column | Content in the second column
 
 @mentions:
 
-@tn991 who the f r u
+@ tn991 who the f r u
 
 Strikethrough:
 ~Any word wrapped with two \~s will appear crossed out.~
