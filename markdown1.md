@@ -57,22 +57,8 @@ Strikethrough:
 Emoji:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
 
-### Syntax guide(basic):
-- Headers:#
-- Emphasis:*,_
-- List:*,[0-9]
-- Img:![name](path), Format: ![Alt Text](url)
-- Link:http://url - automatic, [link name](url)
-- Quotes:>
-- Inline code:`code`
-
-### GFM(GitHub Flavored Markdown)
-- Syntax highlighting: ```
-- Task Lists
-- Tables
-- SHA references
-- Issue references within a repository
-- @mentions
+backslash escape
+\ followed by {\,`,*,_,{,},[,],(,),#,+,-,.,!}
 
 ```
 
@@ -149,4 +135,4 @@ https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 - Strikethrough:
 - Emoji: :+1:
 
-see the github's cheatsheet and [this](https://guides.github.com/features/mastering-markdown/) for reference.
+see [this cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) and [this](https://guides.github.com/features/mastering-markdown/) for reference.
