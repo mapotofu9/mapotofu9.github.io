@@ -134,7 +134,9 @@ Strikethrough:
 
 Emoji:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
-https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji
-https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
+
+- https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji
+
+- https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md
 
 see [this cheatsheet](https://guides.github.com/pdfs/markdown-cheatsheet-online.pdf) and [this](https://guides.github.com/features/mastering-markdown/) for reference.
