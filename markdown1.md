@@ -5,6 +5,7 @@ As カニエウエスト said:
 > We're living the future so
 > the present is our past.
 
+公式ガイドによると3分で終わるはずなのになぜか2時間以上はかかった。
 
 ```markdown
 シンタックスハイライト付きのコードブロック
