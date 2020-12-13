@@ -4,4 +4,4 @@ hoo
 
 woohoo
 
-[blog](index)
+[blog](https://mapotofu9.github.io/)
