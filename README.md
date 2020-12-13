@@ -4,3 +4,4 @@ hoo
 
 woohoo
 
+[blog](index)
