@@ -50,7 +50,8 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 ストライクスルー:
-~ ~
+~クロスアウト~
+
 絵文字:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
 
@@ -124,7 +125,7 @@ Content in the first column | Content in the second column
 
 Strikethrough:
 
-~ クロスアウト ~
+~クロスアウト~
 
 Emoji:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
