@@ -1,8 +1,5 @@
 # mapotofu9.github.io
 
-[blog](https://mapotofu9.github.io/)
-
-
 
 > I wonder why I wonder why.  
 I wonder why I wonder.  
@@ -15,3 +12,7 @@ Uh wugga wugga wugga.
 "Aha!" I say. "That's my theme!"
 
 from "Surely You're Joking, Mr. Feynman!"
+
+
+- [blog](https://mapotofu9.github.io/)
+
