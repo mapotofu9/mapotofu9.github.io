@@ -4,7 +4,9 @@
 > I wonder why.  I wonder why.  
 I wonder why I wonder.   
 I wonder why I wonder why  
-I wonder why I wonder! \.\.\.
+I wonder why I wonder! 
+
+> \.\.\.\.\.\.\.\.\.\.\.\.\.\.\.
 
 > Uh wugga wuh. Uh wugga wuh  
 Uh wugga wugga wugga.  
