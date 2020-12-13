@@ -5,7 +5,7 @@ As カニエウエスト said:
 > We're living the future so
 > the present is our past.
 
-公式ガイドによると3分で終わるはずなのになぜか2時間以上はかかった。
+~公式ガイドによると3分で終わるはずなのになぜか2時間以上はかかった。~
 
 ```markdown
 シンタックスハイライト付きのコードブロック
@@ -49,9 +49,8 @@ _イタリック_
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-Strikethrough:
-~Any word wrapped with two \~s will appear crossed out.~
-
+ストライクスルー:
+~ ~
 絵文字:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
 
@@ -124,7 +123,8 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
 Strikethrough:
-~Any word wrapped with two \~s will appear crossed out.~
+
+~ クロスアウト ~
 
 Emoji:
 :+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
