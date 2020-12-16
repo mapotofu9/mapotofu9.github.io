@@ -1,6 +1,6 @@
 # Markdown について学んでみた!!!!!!
 
-As カニエウエスト said:
+カニエウエスト said:
 
 > We're living the future so
 > the present is our past.
