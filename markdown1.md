@@ -53,8 +53,8 @@ Content in the first column | Content in the second column
 ~クロスアウト~
 
 絵文字:
-:+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
-
+:+1: , :sparkles: , :camel: , :tada: , :rocket: , :metal: , :octocat: , etc.
+ 
 backslash エスケープ
 \ followed by {\,`,*,_,{,},[,],(,),#,+,-,.,!}
 
@@ -128,7 +128,7 @@ Strikethrough:
 ~クロスアウト~
 
 Emoji:
-:+1:, :sparkles:, :camel:, :tada:, :rocket:, :metal:, :octocat:, etc.
+:+1: , :sparkles: , :camel: , :tada: , :rocket: , :metal: , :octocat: , etc.
 
 - https://help.github.com/articles/basic-writing-and-formatting-syntax/#using-emoji
 
