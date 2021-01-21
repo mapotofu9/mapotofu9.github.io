@@ -3,8 +3,7 @@
 
 > I wonder why.  I wonder why.  
 I wonder why I wonder.   
-I wonder why I wonder why  
-I wonder why I wonder! 
+I wonder why I wonder why I wonder why I wonder! 
 
 > \.\.\.\.\.\.\.\.\.\.\.\.\.\.\.
 
