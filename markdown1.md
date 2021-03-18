@@ -1,11 +1,7 @@
 # Markdown について学んでみた!!!!!!
 
-カニエウエスト said:
-
 > We're living the future so
-> the present is our past.
-
-~公式ガイドの所要時間は3分なのになぜか2時間以上はかかった。~
+> the present is our past. ~Kanye West
 
 ```markdown
 シンタックスハイライト付きのコードブロック
