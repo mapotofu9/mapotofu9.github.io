@@ -1,7 +1,8 @@
 # Markdown について学んでみた!!!!!!
 
 > We're living the future so
-> the present is our past. ~Kanye West
+> the present is our past. 
+> - Kanye West
 
 ```markdown
 シンタックスハイライト付きのコードブロック
