@@ -122,7 +122,7 @@ Uh wugga wugga wugga.
 I wugga wuh uh wugga wuh Uh wugga wugga wugga.  
 "Aha!" I say. "That's my theme!"
 
-> ~ "Surely You're Joking, Mr. Feynman!"
+>  "Surely You're Joking, Mr. Feynman!"
 
 > When you include a task list in the first comment of an Issue, you will see a helpful progress bar in your list of issues. It works in Pull Requests, too!
 > If you include a task list in the first comment of an Issue, you will get a handy progress indicator in your issue list. It also works in Pull Requests!
