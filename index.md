@@ -8,6 +8,11 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 - [Markdownについて学んでみた](https://mapotofu9.github.io/markdown1)
 
+
+### フロントエンド技術について
+
+- [html,css,javascriptの学習](https://github.com/mapotofu9/frontend-memos/blob/main/frontendMemo.md)
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mapotofu9/mapotofu9.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
