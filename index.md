@@ -11,7 +11,7 @@ Whenever you commit to this repository, GitHub Pages will run Jekyll to rebuild 
 
 ### フロントエンド技術について
 
-- [html,css,javascriptの学習](https://github.com/mapotofu9/frontend-memos/blob/main/frontendMemo.md)
+- [html,css,javascriptの学習](./frontend/frontend.md)
 
 ### Jekyll Themes
 
