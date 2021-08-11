@@ -21,6 +21,14 @@
 
 ` * { box-sizing: border-box;} `
 
+- nth-child(): n番目の要素をセレクトする
+
+```
+li:nth-child(n-3){}
+li:nth-child(2){}
+p:nth-child(2n){}
+```
+
 ### 属性
 - box-sizing: 値をborder-boxとするとpaddingとmarginをborderに合わせてくれる(初期値はcontent-box)
 
